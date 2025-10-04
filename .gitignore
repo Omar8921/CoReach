@@ -1,0 +1,27 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.obj
+*.pdb
+*.exe
+*.dll
+*.app
+*.dmg
+*.ipa
+*.lib
+*.apk
+*.so
+*.a
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
